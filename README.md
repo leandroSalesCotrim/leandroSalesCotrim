@@ -1,4 +1,5 @@
 ### Bem vindo!
+![](https://komarev.com/ghpvc/?username=leandroSalesCotrim&color=EB1C23)
 
 <!--
 **leandroSalesCotrim/leandroSalesCotrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroSalesCotrim&show_icons=true&theme=algolia)
+
